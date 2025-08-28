@@ -1,7 +1,7 @@
 # A1.5 - Solución de problemas (Calificaciones)
 
 ## Índice
-1. [Dataset](./A1.5%Calificaciones.csv)
+1. [Dataset](./A1.5%20Calificaciones.csv)
 2. [Notebook](./A1.5%20Solución%20de%20problemas.ipynb)
 3. [Reporte HTML](./A1.5%20Solución%20de%20problemas.html)
 4. [README](./README.md)
